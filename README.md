@@ -2,6 +2,7 @@
 A movie ratings and reviews mobile application developed using flutter and firebase.
 
 Pages:
+
 1- login: sign up form for user login.
 
 2- home_page: main homepage displaying featured movies and reviews.
